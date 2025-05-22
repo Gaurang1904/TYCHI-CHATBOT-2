@@ -128,10 +128,3 @@ For production use, consider:
 - Configuring proper session management
 - Protecting your API key with environment variables
 
-## License
-
-[MIT License](LICENSE)
-
-## Contact
-
-For questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
